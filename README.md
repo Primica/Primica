@@ -1,7 +1,7 @@
 
 # Bonjour tout le monde! 👩🏻‍💻
 
-Mon nom est Eulalie, je suis ingénieure en logiciel avec une spécialisation en Big Data et en Deep Learning. Je suis ravi de vous accueillir sur ma page GitHub.
+Mon nom est Eulalie, je suis dévelopeuse avec une spécialisation en Big Data et en Deep Learning. Je suis ravie de vous accueillir sur ma page GitHub.
 
 ## 🏢 La fusion de l'architecture et de la technologie
 
