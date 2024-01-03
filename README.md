@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kyss, I'm a Software Engineer with a specialization in Big Data and Deep Learning. I'm thrilled to welcome you to my GitHub page.</p>
+<p align="left">My name is Eulalie, I'm a Software Engineer with a specialization in Big Data and Deep Learning. I'm thrilled to welcome you to my GitHub page.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">🎮 New Adventure with Recode Studios</h2>
+<h2 align="left">🔳 New Adventure with Kill On Sight</h2>
 
 ###
 
