@@ -26,4 +26,4 @@ Je me tient a dispositions si je peux vous aider dans vos projets ou si vous sou
 - Email: mob.reingen@gmail.com
 
 # 💻 Les IDEs que j'utilise : 
-
+![Logo](https://cdn.icon-icons.com/icons2/2389/PNG/512/jetbrains_logo_icon_145150.png)
