@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Recently, I have joined a collective of developers called "Recode Studios". Our main focus is developing custom Discord bots.<br><br>These bots assist in managing Discord communities, automating repetitive tasks, and adding a sense of joy to user interactions. This experience has sharpened my skills and yielded the opportunity to learn from my talented peers.</p>
+<p align="left">Recently, I have joined a collective of developers called "Kill On Sight". Our main focus is developing custom Discord bots.<br><br>These bots assist in managing Discord communities, automating repetitive tasks, and adding a sense of joy to user interactions. This experience has sharpened my skills and yielded the opportunity to learn from my talented peers.</p>
 
 ###
 
