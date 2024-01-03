@@ -1,11 +1,29 @@
-# 💫 About Me:
-👋 Salut, je suis Eulalie!<br><br>💻 Développeuse passionnée par le JavaScript, Python et le C++, je crée des solutions innovantes et personnalisées, en mettant l'accent sur les bots Discord sur mesure. Ma passion pour la programmation va au-delà de l'écran, et j'offre mes services de mentorat à ceux qui souhaitent se lancer dans le monde fascinant de la programmation.<br><br>🤖 Spécialisée dans le développement de bots Discord personnalisés, je suis là pour donner vie à vos idées et transformer vos besoins en solutions informatiques interactives. Que vous cherchiez à automatiser des tâches spécifiques, à enrichir l'expérience utilisateur ou à créer une communauté florissante, je suis prête à collaborer avec vous.<br><br>🚀 En parallèle, je partage mes connaissances avec ceux qui débutent dans la programmation. Mon objectif est d'inspirer et de guider les nouveaux passionnés, facilitant ainsi leur parcours dans le monde de la programmation.<br><br>💡 Rejoignez-moi dans cette aventure où la créativité et le code se rencontrent pour façonner des expériences numériques uniques, tout en encourageant ceux qui débutent dans le vaste monde de la programmation!
 
+# Bonjour tout le monde! 👩🏻‍💻
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+Mon nom est Eulalie, je suis ingénieure en logiciel avec une spécialisation en Big Data et en Deep Learning. Je suis ravi de vous accueillir sur ma page GitHub.
 
+## 🏢 La fusion de l'architecture et de la technologie
 
----
-[![](https://visitcount.itsvg.in/api?id=Eulalie&icon=2&color=10)](https://visitcount.itsvg.in)
+Après avoir obtenu mon diplôme en Big Data et Deep Learning, j'ai rejoint une entreprise d'architecture de premier plan. Ma tâche principale est de faire converger l'art de l'architecture avec la science des données.
+
+J'utilise le deeplearning pour optimiser le design architectural, l'efficacité énergétique et bien plus encore. L'alliance de ces deux mondes permet d'obtenir des bâtiments plus durables, efficaces et esthétiquement agréables a regarder.
+
+## 🎓 Compétences et langages de programmation
+
+En plus de ma maîtrise du Big Data et de l'apprentissage en profondeur, j'ai également développé une expertise dans la programmation avec Python, Java et C (++, #) ainsi que R.
+
+Python me permet de construire des modèles de machine learning robustes, Java est mon choix pour les applications de back end et R est incroyablement pratique pour les statistiques et la visualisation de données.
+
+## 💼 Projets 
+
+Au fil des années, j'ai eu l'occasion de travailler sur une panoplie de projets stimulants. De l'optimisation des designs architecturaux via le machine learning à l'analyse de grandes quantités de données pour améliorer l'efficacité énergétique des bâtiments.
+
+## 🙌🏻  Demandez moi !
+
+Je me tient a dispositions si je peux vous aider dans vos projets ou si vous souhaitez votre bot discord ! 
+
+- Email: mob.reingen@gmail.com
+
+# 💻 Les IDEs que j'utilise : 
 
