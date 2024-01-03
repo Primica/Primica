@@ -1,75 +1,14 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 💫 About Me:
+👋 Salut, je suis Eulalie!<br><br>💻 Développeuse passionnée par le JavaScript, Python et le C++, je crée des solutions innovantes et personnalisées, en mettant l'accent sur les bots Discord sur mesure. Ma passion pour la programmation va au-delà de l'écran, et j'offre mes services de mentorat à ceux qui souhaitent se lancer dans le monde fascinant de la programmation.<br><br>🤖 Spécialisée dans le développement de bots Discord personnalisés, je suis là pour donner vie à vos idées et transformer vos besoins en solutions informatiques interactives. Que vous cherchiez à automatiser des tâches spécifiques, à enrichir l'expérience utilisateur ou à créer une communauté florissante, je suis prête à collaborer avec vous.<br><br>🚀 En parallèle, je partage mes connaissances avec ceux qui débutent dans la programmation. Mon objectif est d'inspirer et de guider les nouveaux passionnés, facilitant ainsi leur parcours dans le monde de la programmation.<br><br>💡 Rejoignez-moi dans cette aventure où la créativité et le code se rencontrent pour façonner des expériences numériques uniques, tout en encourageant ceux qui débutent dans le vaste monde de la programmation!
 
-###
 
-<p align="left">My name is Eulalie, I'm a Software Engineer with a specialization in Big Data and Deep Learning. I'm thrilled to welcome you to my GitHub page.</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Eulalie&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Eulalie&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eulalie&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=Eulalie&icon=2&color=10)](https://visitcount.itsvg.in)
 
-<h2 align="left">🏢 Fusing Architecture and Technology</h2>
-
-###
-
-<p align="left">After earning my degree in Big Data and Deep Learning, I joined a leading architecture firm. My main duty is merging the art of architecture with the science of data.<br><br>Using machine learning to optimize architectural design, energy efficiency, and much more. The combination of these two worlds results in more sustainable, efficient, and aesthetically pleasing buildings.</p>
-
-###
-
-<h2 align="left">🔳 New Adventure with Kill On Sight</h2>
-
-###
-
-<p align="left">Recently, I have joined a collective of developers called "Kill On Sight". Our main focus is developing custom Discord bots.<br><br>These bots assist in managing Discord communities, automating repetitive tasks, and adding a sense of joy to user interactions. This experience has sharpened my skills and yielded the opportunity to learn from my talented peers.</p>
-
-###
-
-<h2 align="left">💼 Projects</h2>
-
-###
-
-<p align="left">Over the years, I've had the opportunity to work on a plethora of stimulating projects. From optimizing architectural designs via machine learning to analyzing large quantities of data to enhance building energy efficiency.</p>
-
-###
-
-<h2 align="left">📊 Let's Talk!</h2>
-
-###
-
-<p align="left">I'm always open to discuss new opportunities, collaborate on exciting projects, exchange ideas or get your tailor-made discord bot ! <br><br>- Email: mob.reingen@gmail.com<br><br>Thanks for stopping by, happy browsing!</p>
-
-###
-
-<h2 align="left">For the IDEs I use</h2>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white&style=for-the-badge" height="40" alt="jetbrains logo"  />
-</div>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
-</div>
-
-###
