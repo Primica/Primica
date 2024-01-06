@@ -21,7 +21,7 @@ Au fil des années, j'ai eu l'occasion de travailler sur une panoplie de projets
 
 ## 🙌🏻  Demandez moi !
 
-Je me tient a dispositions si je peux vous aider dans vos projets ou si vous souhaitez votre bot discord ! 
+Je me tient a disposition si je peux vous aider dans vos projets ou si vous souhaitez votre bot discord ! 
 
 - Email: mob.reingen@gmail.com
 
